@@ -103,6 +103,7 @@ module Fog
       request :list_networks
       request :list_os_categories
       request :list_os_types
+      request :list_projects
       request :list_pods
       request :list_port_forwarding_rules
       request :list_public_ip_addresses
